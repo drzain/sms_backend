@@ -1,0 +1,1 @@
+<?php if(isset($release_ajax)): echo($release_ajax); endif; ?>
